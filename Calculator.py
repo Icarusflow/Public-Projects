@@ -1,4 +1,4 @@
-# Calculator Application by Dylan Duru: Last Updated 3/31/2020
+# Calculator Python Application by Dylan Duru: Last Updated 3/31/2020
 
 cont = "Y"
 
